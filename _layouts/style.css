@@ -1,2 +1,49 @@
 {% include css/bootstrap.min.css %}
 {% include css/grayscale.css %}
+
+img {
+  opacity: 0.8;
+}
+
+img:hover {
+    opacity: 1.0;
+}
+
+.row {
+  margin: 0px 60px 0px 60px;
+}
+
+@media only screen and (max-width: 765px) {
+  .row {
+    margin: 0px;
+  }
+}  
+
+.modal-header {
+  color: #333;
+}
+
+.modal-body {
+  color: #333;
+}
+
+#intro {
+  min-width: 100vw;
+  min-height: 100vh;
+}
+
+#about {
+  min-width: 100vw;
+  min-height: 100vh;
+}
+
+#download {
+  padding-top: 60px;
+  min-width: 100vw;
+  min-height: 100vh;
+}
+
+#contact {
+  min-width: 100vw;
+  min-height: 100vh;
+}
