@@ -2,12 +2,12 @@
 title: Jac Prada
 email: jacopo.prada@gmail.com
 url: https://jacprada.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Jac Prada - Web Developer | Digital Strategist | Growth Hacker"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
-  links: '#219ab3'
+  links: '#e5a54b'
 
 # Footer settings
 footer: Jac Prada
@@ -23,7 +23,7 @@ social:
   # - title: bitbucket
   #   url: http://bitbucket.org/jekyll
   - title: linkedin
-    url: https://linkedin.com/in/jacopoprada
+    url: https://linkedin.com/in/jacprada
   - title: github
     url: https://github.com/jacprada
 

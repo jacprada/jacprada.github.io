@@ -9,6 +9,12 @@ img:hover {
     opacity: 1.0;
 }
 
+.mePic {
+  max-width: 200px;
+  max-height: 200px;
+  margin-bottom: 35px;
+}
+
 .row {
   margin: 0px 60px 0px 60px;
 }
@@ -35,15 +41,81 @@ img:hover {
 #about {
   min-width: 100vw;
   min-height: 100vh;
+  padding-top: 60px;
 }
 
-#download {
-  padding-top: 60px;
+#skills {
   min-width: 100vw;
   min-height: 100vh;
+  padding-top: 150px;
+}
+
+.skillsIcons {
+  margin-bottom: 20px;
+}
+
+.skillsList {
+  list-style-type: none;
+  padding: 0;
+  margin: 0 0 60px 0;
+}
+
+.skillsItem {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+#portfolio {
+  min-width: 100vw;
+  min-height: 100vh;
+  padding-top: 60px;
+  margin-bottom: 80px;
+}
+
+.projectTitle {
+  font-size: 25px;
+}
+
+#experience {
+  min-width: 100vw;
+  min-height: 100vh;
+  padding-top: 80px;
+  margin-bottom: 40px;
+}
+
+.experienceTitle {
+  margin-bottom: 80px;
+}
+
+.experienceInfo {
+  margin-bottom: 80px;
+}
+
+.experienceRight {
+  text-align: right;
+}
+
+.timeline {
+  list-style-type: none;
+}
+
+.timeFrame {
+  margin-bottom: 10px;
+}
+
+#education {
+  min-width: 100vw;
+  min-height: 100vh;
+  padding-top: 80px;
+  margin-bottom: 40px;
 }
 
 #contact {
   min-width: 100vw;
   min-height: 100vh;
+  padding-top: 150px;
+}
+
+.contactTitle {
+  margin-bottom: 50px;
 }
